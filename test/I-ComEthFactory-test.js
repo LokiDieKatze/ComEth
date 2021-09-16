@@ -31,7 +31,6 @@ describe('ComEthFactory', function () {
         .to.emit(comEthFactory, 'ComEthCreated')
         .withArgs(futureAddress);
     });
-    //
     it('should return factoryOwner ', async function () {
       expect(await comEthFactory.getFactoryOwner()).to.equal(dev.address);
     });
