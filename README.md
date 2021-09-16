@@ -7,7 +7,7 @@
 
 ## Description
 
-- Used Testnet : Rinkeby
+- Used Testnet : Rinkeby, Kovan, Ropsten, Goerli
 
 ### **ComEth**
 
