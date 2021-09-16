@@ -270,8 +270,8 @@ contract ComEth {
     function quitComEth() public userExist checkSubscription {
         if(_users[msg.sender].isBanned == false && _investmentBalances[msg.sender] > 0) {
             uint256 amount = getWithdrawalAmount();
-            _withdraw(amount);
             _investmentBalances[address(this)] -= _investmentBalances[msg.sender];
+            _withdraw(amount);
         }
         _investmentBalances[msg.sender] = 0;
         _users[msg.sender].exists = false;
