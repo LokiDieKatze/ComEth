@@ -1,1 +1,12 @@
-{"ComEthFactory":{"rinkeby":{"address":"0xEeE93Aa0d05FaC41d5609E850951033320e4b38f"},"kovan":{"address":"0xEeE93Aa0d05FaC41d5609E850951033320e4b38f"},"ropsten":{"address":"0xEeE93Aa0d05FaC41d5609E850951033320e4b38f"},"goerli":{"address":"0xEeE93Aa0d05FaC41d5609E850951033320e4b38f"}}}
+{"ComEthFactory":{
+  "rinkeby":{"address":"0xEeE93Aa0d05FaC41d5609E850951033320e4b38f"},
+  "kovan":{"address":"0xEeE93Aa0d05FaC41d5609E850951033320e4b38f"},
+  "ropsten":{"address":"0xEeE93Aa0d05FaC41d5609E850951033320e4b38f"},
+  "goerli":{"address":"0xEeE93Aa0d05FaC41d5609E850951033320e4b38f"}},
+"ComEth":{
+  "kovan":{"address":"0x39fa9E0dcDdf190B82473A8CA7617B8Da3E05d8E"},
+  "rinkeby":{"address":"0x39fa9E0dcDdf190B82473A8CA7617B8Da3E05d8E"},
+  "goerli":{"address":"0x39fa9E0dcDdf190B82473A8CA7617B8Da3E05d8E"},
+  "ropsten":{"address":"0x39fa9E0dcDdf190B82473A8CA7617B8Da3E05d8E"}
+  }
+}
